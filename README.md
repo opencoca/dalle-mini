@@ -25,7 +25,7 @@ Before making a PR, check style with `make style`.
 
 You can experiment with the pipeline step by step through our [`inference pipeline notebook`](tools/inference/inference_pipeline.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opencoca/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 
 ### Training of DALL·E mini
 
